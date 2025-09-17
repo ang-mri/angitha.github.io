@@ -1,16 +1,18 @@
 ---
-title: "From Single-Visit to Multi-Visit Image-Based Models: Single-Visit Models are Enough to Predict Obstructive Hydronephrosis"
+title: "Longitudinal image-based prediction of surgical intervention in infants with hydronephrosis using deep learning: Is a single ultrasound enough?"
 authors:
 - Stanley Hua
+- Adree Khondker
 - ...
-- Anna Goldenberg
+- Mandy Rickard
 - Lauren Erdman
-date: "2022-11-09"
+date: "2025-08-04"
 
 links:
-    pdf: "https://arxiv.org/pdf/2212.13535.pdf"
+    journal: "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000939"
+    conference: "https://arxiv.org/pdf/2212.13535.pdf"
     code: 'https://github.com/stan-hua/temporal_hydronephrosis/'
 
-publication: "18th International Symposium on Medical Information Processing and Analysis (SIPAIM)"
+publication: "PLOS Digital Health (2025) & SIPAIM (2022)"
 ---
 
