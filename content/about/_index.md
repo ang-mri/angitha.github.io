@@ -48,7 +48,7 @@ academia:
 
 **Hi!** My name is Stan, and I want to create robust yet cautious machine learning systems that can meaningfully improve patient care, especially for those in under-served communities.
 
-I care deeply about the usefulness of machine learning when deployed clinically. My current research interests revolve around model/data bias and methods to improve robustness or uncertainty quantification.
+I care deeply about the usefulness of machine learning when deployed clinically. My current research interests revolve around algorithmic bias and methods to rigorously evaluate and monitor AI.
 
 I also believe in [slow science](https://en.wikipedia.org/wiki/Slow_science), which is not about time to completion but about the careful and meticulous art of advancing science.
 

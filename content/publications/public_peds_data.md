@@ -8,13 +8,12 @@ authors:
 - Irene Y. Chen
 - Alex X. Lu
 - Lauren Erdman
-date: "2025-06-10"
+date: "2026-03-01"
 
 links:
-    pdf: "https://stan-hua.github.io/isbi_paper.pdf"
-    code: 'https://github.com/stan-hua/view_hn'
-    poster: "https://stan-hua.github.io/isbi_poster.pdf"
+    preprint: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12259205/"
+    code: 'https://github.com/stan-hua/ped_vs_adults-cxr'
 
-publication: "medRxiv"
+publication: "Nature Health"
 ---
 
