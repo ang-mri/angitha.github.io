@@ -18,7 +18,7 @@ news_items:
 - text: "Paper on public pediatric data gap in Nature Health!"
   icon: "file-text"
   link: https://www.medrxiv.org/content/10.1101/2025.06.06.25328913v1
-  extra_text: "March 2025"
+  extra_text: "March 2026"
 - text: "Life update: moved to California!"
   icon: "send"
   extra_text: "Aug. 2025."
